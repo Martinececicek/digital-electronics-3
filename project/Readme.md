@@ -24,6 +24,8 @@ Ukradeno z https://codegolf.stackexchange.com/questions/173837/longest-seven-seg
   * select         -- výběr 8 znaků z memory
   * reset          -- rychlost 0, posun na začátek textu
   
+  
+  Stranka z kama muzeme kradnout: http://fpga-tutorials.blogspot.com/2013/05/scrolling-text-with-7-segment-displays.html
   top
   
   
